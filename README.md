@@ -10,7 +10,7 @@ Computer Science student at the University of Nairobi, Nairobi, Kenya.
 | Topic | Status |
 |-------|--------|
 | Cybersecurity Landscape | ✅ Complete |
-| Understanding Threats & Attacks | ✅ Complete |
+| Understanding Threats & Attacks | 🔄️In Progress|
 | Security Operations & the Defense Analyst | 🔄 In Progress |
 | Introduction to Splunk | 🔄 In Progress |
 
