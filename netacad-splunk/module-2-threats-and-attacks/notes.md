@@ -25,6 +25,8 @@
 | MITRE ATT&CK | Framework mapping adversary tactics and techniques |
 | Tactic | The adversary's goal at a specific stage of attack |
 | Technique | How the adversary achieves that goal |
+| Typosquatting | Making a fake site appear as close as possible as the original |
+| Obsufcation | Concealing something important,critical or valuable |
 | Kill Chain | Model describing the stages of a cyberattack |
 | Malware | Malicious software designed to damage or gain access |
 | Virus | Malware that attaches to files and self-replicates |
